@@ -1,4 +1,3 @@
-import './App.css';
 import web3 from './web3'
 import { Component } from 'react';
 import {getManager, getPlayers, pickWinner, buyTicket, getBallance} from './lottery'
